@@ -1,0 +1,12 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.副本.*
+
+# Python compile files
+*.pyc
+
+# Dependency directories (remove the comment below to include it)
